@@ -8,4 +8,6 @@ if(index) {
 	console.log("I am doing something cool here");
 }
 
+// Feature 1 goes in here
+
 // Some snarky comment here...
