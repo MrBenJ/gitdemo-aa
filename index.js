@@ -5,6 +5,7 @@ console.log('hello world');
 var index = 0;
 if(index) {
     // Do something cool here
+	console.log("I am doing something cool here");
 }
 
 // Some snarky comment here...
